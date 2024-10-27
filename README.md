@@ -1,2 +1,2 @@
 # IMPA-Fundamentals-and-Trends-in-Vision-and-Image-Processing
-self-learning program
+https://lvelho.impa.br/ip23/
